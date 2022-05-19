@@ -1,4 +1,7 @@
 /package-lock.json
 /public/build
 /.cache
+
 /functions/\[\[path\]\].js
+/app/tailwind.css
+.env
